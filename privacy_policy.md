@@ -1,8 +1,8 @@
 # Privacy Policy for Reacts
 
-## SunkenSplashGaming#4953 operates Reacts, which provides the SERVICE.
+## SunkenSplash operates Reacts, which provides the SERVICE.
 
-This page is used to inform website visitors regarding our policies with the collection, use, and disclosure of Personal Information for anyone using the Service, Reacts.
+This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information for anyone using the Service, Reacts.
 
 If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect is solely used for operation of the Service directly for the User. We will not use or share your information with anyone except as described in this Privacy Policy.
 
@@ -25,4 +25,4 @@ Our Services do not address anyone under the age of 13. We do not knowingly coll
 We may update our Privacy Policy from time to time. Thus, we advise you to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
 
 ## Contact Us
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact SunkenSplashGaming#4953 through Discord, open an Issue on this GitHub repository, or join the support server at [https://discord.gg/nSPQsNBR3V](https://discord.gg/nSPQsNBR3V).
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact SunkenSplash through Discord, open an Issue on this GitHub repository, or join the support server at [https://discord.gg/nSPQsNBR3V](https://discord.gg/nSPQsNBR3V).
