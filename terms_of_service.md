@@ -1,6 +1,6 @@
 # Terms of Service for Reacts
 
-## SunkenSplashGaming#4953 operates Reacts, which provides the SERVICE.
+## SunkenSplash operates Reacts, which provides the SERVICE.
 
 The Terms of Service govern your use of Reacts, and you agree to these Terms in using it.
 
@@ -18,4 +18,4 @@ The Terms of Service govern your use of Reacts, and you agree to these Terms in 
 We may update our Terms of Service from time to time. Thus, we advise you to review this page periodically for any changes. We will notify you of any changes by posting the new Terms on this page. These changes are effective immediately, after they are posted on this page.
 
 ## Contact Us
-If you have any questions or suggestions about our Terms of Service, do not hesitate to contact SunkenSplashGaming#4953 through Discord, open an Issue on this GitHub repository, or join the support server at [https://discord.gg/nSPQsNBR3V](https://discord.gg/nSPQsNBR3V).
+If you have any questions or suggestions about our Terms of Service, do not hesitate to contact SunkenSplash through Discord, open an Issue on this GitHub repository, or join the support server at [https://discord.gg/nSPQsNBR3V](https://discord.gg/nSPQsNBR3V).
